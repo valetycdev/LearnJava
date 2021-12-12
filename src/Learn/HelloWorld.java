@@ -8,13 +8,10 @@ public class HelloWorld {
         while (i < 2) {
             System.out.println("Hello World!");
             i++; /* i+=1 */
+        }
         /* For Loop */
         for (int j = 0; j < 2; j++) { /* Se define (variable; condicion; incremento) */
             System.out.println("Hello World!");
         }
-
-        }
     }
-
-
 }
